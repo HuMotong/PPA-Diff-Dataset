@@ -10,7 +10,7 @@ This repository provides outdoor scenes captured by our self-developed common-ap
 
 ---
 
-##Data Download
+**##Data Download**
 
 The dataset is hosted on Baidu Netdisk due to file size.
 
@@ -25,3 +25,15 @@ File size: approximately XX GB (uncompressed).
 
 ### File Organization
 
+**Citation**
+If you use this dataset in your research, please cite our paper:
+
+BIBTEX
+@article{ppa_diff_2026,
+  title   = {Full-Stokes Polarization Feature Image Fusion via Polarization Physics-Aware Diffusion Model},
+  author  = {Hu, Motong and Pan, Yue and Xue, Donglin and Xu, Xiping and Wang, Peiyu},
+  journal = {Expert Systems with Applications},
+  year    = {2026},
+  note    = {Under review}
+}
+(BibTeX will be updated once the paper is published.)
