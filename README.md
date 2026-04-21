@@ -21,11 +21,8 @@ File size: approximately XX GB (uncompressed).
 
 ---
 
-## Data Format
+## References
 
-### File Organization
-
-**Citation**
 If you use this dataset in your research, please cite our paper:
 
 BIBTEX
