@@ -10,7 +10,7 @@ This repository provides outdoor scenes captured by our self-developed common-ap
 
 ---
 
-**##Data Download**
+## Data Download
 
 The dataset is hosted on Baidu Netdisk due to file size.
 
