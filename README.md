@@ -25,7 +25,6 @@ File size: approximately XX GB (uncompressed).
 
 If you use this dataset in your research, please cite our paper:
 
-BIBTEX
 @article{ppa_diff_2026,
   title   = {Full-Stokes Polarization Feature Image Fusion via Polarization Physics-Aware Diffusion Model},
   author  = {Hu, Motong and Pan, Yue and Xue, Donglin and Xu, Xiping and Wang, Peiyu},
@@ -33,4 +32,5 @@ BIBTEX
   year    = {2026},
   note    = {Under review}
 }
+
 (BibTeX will be updated once the paper is published.)
