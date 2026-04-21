@@ -4,7 +4,11 @@ A representative subset of the full-Stokes polarization feature image dataset us
 
 **"Full-Stokes Polarization Feature Image Fusion via Polarization Physics-Aware Diffusion Model"**
 
-This repository provides outdoor scenes captured by our self-developed common-aperture full-Stokes polarimetric camera. Each scene contains four polarization feature maps (S0, DoP, AoP, EoP) stored as float32 NumPy arrays.
+This repository provides outdoor scenes captured by our self-developed common-aperture full-Stokes polarimetric camera. Each scene contains four polarization feature maps (S0, DoP, AoP, EoP) stored as float32 NumPy arrays：
+- S0: normalized intensity, range [0, 1]
+- DoP: degree of polarization, range [0, 1]
+- AoP: angle of polarization, range [-90°, 90°] (in degrees)
+- EoP: ellipticity angle, range [-45°, 45°] (in degrees)
 
 > **Note:** This is a partial release. The complete dataset will be released after the next-generation imaging platform is finalized.
 
