@@ -18,7 +18,7 @@ This repository provides outdoor scenes captured by our self-developed common-ap
 
 Due to file size limitations, the dataset is hosted on Baidu Netdisk.
 
-- **Link:** PPA-Diff-Dataset 链接: https://pan.baidu.com/s/1cJE6OcZolAQSkdYMJed4nA?pwd=vrju
+- **Link:**  https://pan.baidu.com/s/1cJE6OcZolAQSkdYMJed4nA?pwd=vrju
 - **Extraction code:** `vrju`
 
 File size: approximately 25 GB (uncompressed).
