@@ -32,7 +32,7 @@ If you use this dataset in your research, please cite our paper:
 ```bibtex
 @article{ppa_diff_2026,
   title   = {Full-Stokes Polarization Feature Image Fusion via Polarization Physics-Aware Diffusion Model},
-  author  = {Hu, Motong and Pan, Yue and Xue, Donglin and Xu, Xiping and Wang, Peiyu},
+  author  = {Motong Hu; Yue Pan; Donglin Xue;Xiping Xu and Peiyu Wang},
   journal = {Expert Systems with Applications},
   year    = {2026},
   note    = {manuscript under review}
