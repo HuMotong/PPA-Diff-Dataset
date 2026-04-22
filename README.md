@@ -10,7 +10,7 @@ This repository provides outdoor scenes captured by our custom-built common-aper
 - AoP: angle of polarization, range [-90, 90] (in degrees)
 - EoP: ellipticity angle, range [-45, 45] (in degrees)
 
-> **Note:** This is a partial release. The complete dataset will be released after the next-generation imaging platform is finalized.
+> **Note:** This is currently a partial release. A more complete version of the dataset is planned for future release after the next-generation imaging platform is finalized.
 
 ---
 
@@ -32,8 +32,7 @@ If you use this dataset in your research, please cite our paper:
 ```bibtex
 @article{ppa_diff_2026,
   title   = {Full-Stokes Polarization Feature Image Fusion via Polarization Physics-Aware Diffusion Model},
-  author  = {Motong Hu; Yue Pan; Donglin Xue;Xiping Xu and Peiyu Wang},
-  journal = {Expert Systems with Applications},
+  author  = {Motong Hu and Yue Pan and Donglin Xue and Xiping Xu and Peiyu Wang},
   year    = {2026},
   note    = {manuscript under review}
 }
